@@ -1,0 +1,8 @@
+Flask
+Flask-WTF
+Flask-chartjs
+gunicorn
+email-validator
+SQLAlchemy
+Flask-SQLAlchemy
+werkzeug
